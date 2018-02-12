@@ -1,23 +1,19 @@
-# Quantified Self
-
-Quantified Self is a wellness application that allows a user to track and monitor calories consumed for every meal. A user has a list of foods, and each food has a name and calorie count. Foods can be added, updated and removed. A user also has a Food Diary, which enables them to manage their meals. Meals consist of 'Breakfast', 'Lunch', 'Dinner', and 'Snacks' - each having an alotted amount of calories. As foods are added and removed from a meal, the total and remaining calorie count for that meal is updated - as is the total and remaining calorie counter across all meals.
-
-**Interact with this application via** https://marshallhouston.github.io/quantified-self/
+# React Integration
 
 ## Getting Started
 
-To run Quantified Self on your local machine, simply clone this repository by entering into your terminal:
-
-`$ git clone git@github.com:<YOUR_GITHUB_USERNAME>/quantified-self.git`
+Clone or fork the repo
 
 Run `$ npm install` to install all the required packages.
 
-To interact with the application locally, run `$ npm start` and visit `localhost:8080/webpack-dev-server/`
+Run `$ npm start` and make sure the application is running on `localhost:8080/webpack-dev-server/`
 
-## Built With
+## Possible application features to React-ify:
+On **your** Quantified Self projects:
+* Implement the same changes we just did on this repo, to build in that muscle memory
+* Render the meals tables with a React component
+* Render the list of foods on foods.html with a React component
+* Create a controlled-form component on foods.html to add new foods
 
-* [JavaScript](https://www.javascript.com/)
-* [jQuery](https://jquery.com/)
-* [Express](https://expressjs.com/)
-* [Mocha](https://mochajs.org/)
-* [Chai](https://chaijs.com/)
+
+**Thanks to** @izaxveta and @marshallhouston for letting us use your project for this lesson!
