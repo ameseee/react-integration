@@ -16,4 +16,4 @@ On **your** Quantified Self projects:
 * Create a controlled-form component on foods.html to add new foods
 
 
-**Thanks to** @izaxveta and @marshallhouston for letting us use your project for this lesson!
+**Thanks to** [@izaxveta](https://github.com/izaxveta) and [@marshallhouston](https://github.com/marshallhouston) for letting us use your project for this lesson!
